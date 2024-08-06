@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f3e5f5; /* Lilás claro */
-    background-image: url('https://example.com/sweet-background.jpg'); /* Imagem de doces */
+    background-image: url('https://br.freepik.com/fotos-premium/doces-de-chocolate-fundo-comida-doce-com-varios-recheios_23778191.htm'); /* Imagem de doces */
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -88,4 +88,3 @@ footer {
     position: fixed;
     width: 100%;
     bottom: 0;
-}
